@@ -50,12 +50,12 @@ h1, h2, h3, h4, h5, h6 {
  * -----------------------------------------------------------------------------
  */
 
-.header, #footer, .changeheader {
+.header, .changeheader {
         color: #2e3436 !important;
         background-color: #babdb6;
 }
         
-.header, #footer {
+.header {
         height: 1.8em;
         padding: 6px 6px;
         border: 1px solid #888a85;
@@ -80,13 +80,6 @@ span.header {
         background-repeat: no-repeat;
         background-position: 99%;
 }
-
-#footer { /* Optional footer logo (right aligned). */
-        background-image: url(/* ENTER FOOTER LOGO PATH */);
-        background-repeat: no-repeat;
-        background-position: 99%;
-}
-
 
 /* 
  * -----------------------------------------------------------------------------
