@@ -19,7 +19,7 @@
 <span>
 <span class="parentlinks">
 
-<a href="../">wiki</a>/ 
+<a href="../">krig</a>/ 
 
 </span>
 <span class="title">
@@ -35,7 +35,7 @@ shortcuts
 
 
 <div id="content">
-<p>This wiki has shortcuts <strong>disabled</strong>.</p>
+<p>This wiki has shortcuts <strong>enabled</strong>.</p>
 
 <p>Some examples of using shortcuts include:</p>
 
@@ -48,56 +48,56 @@ Check the [[!cia  ikiwiki desc="CIA page for %s"]].
 <p>This page controls what shortcut links the wiki supports.</p>
 
 <ul>
-<li>[[!shortcut  name=google url="http://www.google.com/search?q=%s"]]</li>
-<li>[[!shortcut  name=archive url="http://web.archive.org/*/%S"]]</li>
-<li>[[!shortcut  name=gmap url="http://maps.google.com/maps?q=%s"]]</li>
-<li>[[!shortcut  name=gmsg url="http://groups.google.com/groups?selm=%s"]]</li>
-<li>[[!shortcut  name=wikipedia url="http://en.wikipedia.org/wiki/%s"]]</li>
-<li>[[!shortcut  name=wikitravel url="http://wikitravel.org/en/%s"]]</li>
-<li>[[!shortcut  name=wiktionary url="http://en.wiktionary.org/wiki/%s"]]</li>
-<li>[[!shortcut  name=debbug url="http://bugs.debian.org/%s" desc="bug #%s"]]</li>
-<li>[[!shortcut  name=deblist url="http://lists.debian.org/debian-%s" desc="debian-%s@lists.debian.org"]]</li>
-<li>[[!shortcut  name=debpkg url="http://packages.debian.org/%s"]]</li>
-<li>[[!shortcut  name=debpkgsid url="http://packages.debian.org/sid/%s"]]</li>
-<li>[[!shortcut  name=debpts url="http://packages.qa.debian.org/%s"]]</li>
-<li>[[!shortcut  name=debmsg url="http://lists.debian.org/msgid-search/%s"]]</li>
-<li>[[!shortcut  name=debrt url="https://rt.debian.org/Ticket/Display.html?id=%s"]]</li>
-<li>[[!shortcut  name=debss url="http://snapshot.debian.net/package/%s"]]
+<li>shortcut google points to <i>http://www.google.com/search?q=%s</i></li>
+<li>shortcut archive points to <i>http://web.archive.org/*/%S</i></li>
+<li>shortcut gmap points to <i>http://maps.google.com/maps?q=%s</i></li>
+<li>shortcut gmsg points to <i>http://groups.google.com/groups?selm=%s</i></li>
+<li>shortcut wikipedia points to <i>http://en.wikipedia.org/wiki/%s</i></li>
+<li>shortcut wikitravel points to <i>http://wikitravel.org/en/%s</i></li>
+<li>shortcut wiktionary points to <i>http://en.wiktionary.org/wiki/%s</i></li>
+<li>shortcut debbug points to <i>http://bugs.debian.org/%s</i></li>
+<li>shortcut deblist points to <i>http://lists.debian.org/debian-%s</i></li>
+<li>shortcut debpkg points to <i>http://packages.debian.org/%s</i></li>
+<li>shortcut debpkgsid points to <i>http://packages.debian.org/sid/%s</i></li>
+<li>shortcut debpts points to <i>http://packages.qa.debian.org/%s</i></li>
+<li>shortcut debmsg points to <i>http://lists.debian.org/msgid-search/%s</i></li>
+<li>shortcut debrt points to <i>https://rt.debian.org/Ticket/Display.html?id=%s</i></li>
+<li>shortcut debss points to <i>http://snapshot.debian.net/package/%s</i>
 <ul>
 <li>Usage: <code>[[!debss  package]]</code>, <code>[[!debss  package#version]]</code>, or <code>[[!debss  package/version]]</code>.  See http://snapshot.debian.net for details.</li>
 </ul></li>
-<li>[[!shortcut  name=debwiki url="http://wiki.debian.org/%s"]]</li>
-<li>[[!shortcut  name=fdobug url="https://bugs.freedesktop.org/show_bug.cgi?id=%s" desc="freedesktop.org bug #%s"]]</li>
-<li>[[!shortcut  name=fdolist url="http://lists.freedesktop.org/mailman/listinfo/%s" desc="%s@lists.freedesktop.org"]]</li>
-<li>[[!shortcut  name=gnomebug url="http://bugzilla.gnome.org/show_bug.cgi?id=%s" desc="GNOME bug #%s"]]</li>
-<li>[[!shortcut  name=linuxbug url="http://bugzilla.kernel.org/show_bug.cgi?id=%s" desc="Linux bug #%s"]]</li>
-<li>[[!shortcut  name=mozbug url="https://bugzilla.mozilla.org/show_bug.cgi?id=%s" desc="Mozilla bug #%s"]]</li>
-<li>[[!shortcut  name=gnulist url="http://lists.gnu.org/mailman/listinfo/%s" desc="%s@gnu.org"]]</li>
-<li>[[!shortcut  name=marcmsg url="http://marc.info/?i=%s"]]</li>
-<li>[[!shortcut  name=marclist url="http://marc.info/?l=%s"]]</li>
-<li>[[!shortcut  name=gmane url="http://dir.gmane.org/gmane.%s" desc="gmane.%s"]]</li>
-<li>[[!shortcut  name=gmanemsg url="http://mid.gmane.org/%s"]]</li>
-<li>[[!shortcut  name=cpan url="http://search.cpan.org/search?mode=dist&amp;query=%s"]]</li>
-<li>[[!shortcut  name=ctan url="http://tug.ctan.org/cgi-bin/ctanPackageInformation.py?id=%s"]]</li>
-<li>[[!shortcut  name=hoogle url="http://haskell.org/hoogle/?q=%s"]]</li>
-<li>[[!shortcut  name=iki url="http://ikiwiki.info/%S/"]]</li>
-<li>[[!shortcut  name=ljuser url="http://%s.livejournal.com/"]]</li>
-<li>[[!shortcut  name=rfc url="http://www.ietf.org/rfc/rfc%s.txt" desc="RFC %s"]]</li>
-<li>[[!shortcut  name=c2 url="http://c2.com/cgi/wiki?%s"]]</li>
-<li>[[!shortcut  name=meatballwiki url="http://www.usemod.com/cgi-bin/mb.pl?%s"]]</li>
-<li>[[!shortcut  name=emacswiki url="http://www.emacswiki.org/cgi-bin/wiki/%s"]]</li>
-<li>[[!shortcut  name=haskellwiki url="http://haskell.org/haskellwiki/%s"]]</li>
-<li>[[!shortcut  name=dict url="http://www.dict.org/bin/Dict?Form=Dict1&amp;Strategy=<em>&amp;Database=</em>&amp;Query=%s"]]</li>
-<li>[[!shortcut  name=imdb url="http://imdb.com/find?q=%s"]]</li>
-<li>[[!shortcut  name=gpg url="http://pgpkeys.mit.edu:11371/pks/lookup?op=vindex&amp;exact=on&amp;search=0x%s"]]</li>
-<li>[[!shortcut  name=perldoc url="http://perldoc.perl.org/search.html?q=%s"]]</li>
-<li>[[!shortcut  name=whois url="http://reports.internic.net/cgi/whois?whois_nic=%s&amp;type=domain"]]</li>
-<li>[[!shortcut  name=cve url="http://cve.mitre.org/cgi-bin/cvename.cgi?name=%s"]]</li>
-<li>[[!shortcut  name=cia url="http://cia.vc/stats/project/%s"]]</li>
-<li>[[!shortcut  name=ciauser url="http://cia.vc/stats/user/%s"]]</li>
-<li>[[!shortcut  name=flickr url="http://www.flickr.com/photos/%s"]]</li>
-<li>[[!shortcut  name=man url="http://linux.die.net/man/%s"]]</li>
-<li>[[!shortcut  name=ohloh url="http://www.ohloh.net/projects/%s"]]</li>
+<li>shortcut debwiki points to <i>http://wiki.debian.org/%s</i></li>
+<li>shortcut fdobug points to <i>https://bugs.freedesktop.org/show_bug.cgi?id=%s</i></li>
+<li>shortcut fdolist points to <i>http://lists.freedesktop.org/mailman/listinfo/%s</i></li>
+<li>shortcut gnomebug points to <i>http://bugzilla.gnome.org/show_bug.cgi?id=%s</i></li>
+<li>shortcut linuxbug points to <i>http://bugzilla.kernel.org/show_bug.cgi?id=%s</i></li>
+<li>shortcut mozbug points to <i>https://bugzilla.mozilla.org/show_bug.cgi?id=%s</i></li>
+<li>shortcut gnulist points to <i>http://lists.gnu.org/mailman/listinfo/%s</i></li>
+<li>shortcut marcmsg points to <i>http://marc.info/?i=%s</i></li>
+<li>shortcut marclist points to <i>http://marc.info/?l=%s</i></li>
+<li>shortcut gmane points to <i>http://dir.gmane.org/gmane.%s</i></li>
+<li>shortcut gmanemsg points to <i>http://mid.gmane.org/%s</i></li>
+<li>shortcut cpan points to <i>http://search.cpan.org/search?mode=dist&amp;query=%s</i></li>
+<li>shortcut ctan points to <i>http://tug.ctan.org/cgi-bin/ctanPackageInformation.py?id=%s</i></li>
+<li>shortcut hoogle points to <i>http://haskell.org/hoogle/?q=%s</i></li>
+<li>shortcut iki points to <i>http://ikiwiki.info/%S/</i></li>
+<li>shortcut ljuser points to <i>http://%s.livejournal.com/</i></li>
+<li>shortcut rfc points to <i>http://www.ietf.org/rfc/rfc%s.txt</i></li>
+<li>shortcut c2 points to <i>http://c2.com/cgi/wiki?%s</i></li>
+<li>shortcut meatballwiki points to <i>http://www.usemod.com/cgi-bin/mb.pl?%s</i></li>
+<li>shortcut emacswiki points to <i>http://www.emacswiki.org/cgi-bin/wiki/%s</i></li>
+<li>shortcut haskellwiki points to <i>http://haskell.org/haskellwiki/%s</i></li>
+<li>shortcut dict points to <i>http://www.dict.org/bin/Dict?Form=Dict1&amp;Strategy=<em>&amp;Database=</em>&amp;Query=%s</i></li>
+<li>shortcut imdb points to <i>http://imdb.com/find?q=%s</i></li>
+<li>shortcut gpg points to <i>http://pgpkeys.mit.edu:11371/pks/lookup?op=vindex&amp;exact=on&amp;search=0x%s</i></li>
+<li>shortcut perldoc points to <i>http://perldoc.perl.org/search.html?q=%s</i></li>
+<li>shortcut whois points to <i>http://reports.internic.net/cgi/whois?whois_nic=%s&amp;type=domain</i></li>
+<li>shortcut cve points to <i>http://cve.mitre.org/cgi-bin/cvename.cgi?name=%s</i></li>
+<li>shortcut cia points to <i>http://cia.vc/stats/project/%s</i></li>
+<li>shortcut ciauser points to <i>http://cia.vc/stats/user/%s</i></li>
+<li>shortcut flickr points to <i>http://www.flickr.com/photos/%s</i></li>
+<li>shortcut man points to <i>http://linux.die.net/man/%s</i></li>
+<li>shortcut ohloh points to <i>http://www.ohloh.net/projects/%s</i></li>
 </ul>
 
 <p>To add a new shortcut, use the <code>shortcut</code>
@@ -140,13 +140,13 @@ Links:
 
 
 <div class="pagedate">
-Last edited <span class="date">Thu 05 Mar 2009 07:16:29 PM CET</span>
-<!-- Created <span class="date">Thu 05 Mar 2009 07:16:29 PM CET</span> -->
+Last edited <span class="date">2009-03-05 19:16</span>
+<!-- Created <span class="date">2009-03-05 19:16</span> -->
 </div>
 
 </div><!-- #pageinfo -->
 
-<!-- from wiki -->
+<!-- from krig -->
 </div><!-- .pagefooter #footer -->
 
 </body>
