@@ -1,11 +1,11 @@
 body {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Droid Sans", sans;
     padding: 1em;
     margin: 0;
     font-size: 18px;
     line-height: 1.5em;
     color: #2e3436;
-    background-color: #F7F7F7;
+    background-color: #FFFFFF;
 }
 
 input { 
@@ -39,7 +39,7 @@ pre {
 }
 
 h1, h2, h3, h4, h5, h6, dl, dt {
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: "Droid Sans", sans;
     font-weight: bold;
     background-color: inherit;
     color: #cc0000 !important;
