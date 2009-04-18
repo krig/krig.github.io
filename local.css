@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .header, #footer, .changeheader {
-        color: black !important;
+        color: #2e3436 !important;
         background-color: #babdb6;
 }
         
@@ -75,7 +75,8 @@ span.header {
 }
 
 .header { /* Optional header logo (right aligned). */
-        background-image: url(/* ENTER HEADER LOGO PATH */);
+        background-image: url(http://www.gravatar.com/avatar/f41bc221bdd1d7eac760e548cb748db3);
+        
         background-repeat: no-repeat;
         background-position: 99%;
 }
