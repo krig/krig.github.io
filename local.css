@@ -15,6 +15,19 @@ body {
         background-color: #eeeeec;
 }
 
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+input { 
+    border: solid 1px;
+    border-color: #aaa;
+}
+
+#content {
+    margin: 1em 15em 0 1em;
+    padding: 2em 3em 4em 1.5em;
+}
+
 pre, tt, code {
         font-family: "Bitstream Vera Sans Mono",
                      "Luxi Mono",
