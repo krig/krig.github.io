@@ -11,8 +11,8 @@ body {
         margin: 0;
         font-size: 100.01%;
         line-height: 1.5em;
-        color: black;
-        background-color: white;
+        color: #333;
+        background-color: #e7e7e7;
 }
 
 pre, tt, code {
