@@ -1,22 +1,12 @@
 body {
-        font-family: "Trebuchet MS",
-                     "Luxi Sans",
-                     "Bitstream Vera Sans",
-                     "Tahoma",
-                     "Verdana",
-                     "Arial",
-                     "Helvetica",
-                     sans-serif;
-        padding: 1em;
-        margin: 0;
-        font-size: 100.01%;
-        line-height: 1.5em;
-        color: #2e3436;
-        background-color: #eeeeec;
+    font-family: "Times New Roman", Times, serif;
+    padding: 1em;
+    margin: 0;
+    font-size: 100.01%;
+    line-height: 1.5em;
+    color: #2e3436;
+    background-color: #F7F7F7;
 }
-
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
 
 input { 
     border: solid 1px;
@@ -24,8 +14,7 @@ input {
 }
 
 #content {
-    margin: 1em 5em 0 1em;
-    padding: 2em 3em 4em 1.5em;
+    width: 75%;
 }
 
 pre, tt, code {
@@ -47,9 +36,10 @@ pre {
 }
 
 h1, h2, h3, h4, h5, h6, dl, dt {
-        font-weight: bold;
-        background-color: inherit;
-        color: #cc0000 !important;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: bold;
+    background-color: inherit;
+    color: #cc0000 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -69,11 +59,11 @@ h1, h2, h3, h4, h5, h6 {
 }
         
 .header {
-        height: 1.8em;
-        padding: 6px 6px;
-        border: 1px solid #888a85;
-        margin-bottom: 4px;
-        display: block;
+    width: 100%;
+    height: 80px;
+    padding: 6px 6px;
+    margin-bottom: 4px;
+    display: block;
 }
 
 .header {
