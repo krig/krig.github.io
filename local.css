@@ -1,6 +1,6 @@
 body {
     font-family: "Droid Sans", sans-serif;
-    padding: 1em;
+    padding: 0;
     margin: 0;
     font-size: 18px;
     line-height: 1.5em;
@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header, .changeheader {
         color: #2e3436 !important;
-        background-color: #babdb6;
+        background-color: #eeeeee;
 }
         
 .header {
