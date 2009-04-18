@@ -1,5 +1,5 @@
 body {
-    font-family: "Droid Sans", sans;
+    font-family: "Droid Sans", sans-serif;
     padding: 1em;
     margin: 0;
     font-size: 18px;
@@ -21,11 +21,12 @@ input {
 }
 
 pre, tt, code {
-        font-family: "Bitstream Vera Sans Mono",
-                     "Luxi Mono",
-                     "Courier New",
-                     "Courier",
-                     monospace;
+        font-family: 
+        "Droid Sans Mono",
+        "Liberation Mono",
+        "Monaco",
+        "Bitstream Vera Sans Mono",
+        monospace;
 }
 
 pre, tt, code, tr.changeinfo, #blogform {
@@ -39,7 +40,7 @@ pre {
 }
 
 h1, h2, h3, h4, h5, h6, dl, dt {
-    font-family: "Droid Sans", sans;
+    font-family: "Droid Sans", sans-serif;
     font-weight: bold;
     background-color: inherit;
     color: #cc0000 !important;
