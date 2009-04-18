@@ -11,8 +11,8 @@ body {
         margin: 0;
         font-size: 100.01%;
         line-height: 1.5em;
-        color: #333;
-        background-color: #e7e7e7;
+        color: #2e3436;
+        background-color: #eeeeec;
 }
 
 pre, tt, code {
@@ -25,7 +25,7 @@ pre, tt, code {
 
 pre, tt, code, tr.changeinfo, #blogform {
         color: inherit;
-        background-color: #f6f6f0;
+        background-color: #d3d7cf;
 }
 
 pre {
@@ -36,7 +36,7 @@ pre {
 h1, h2, h3, h4, h5, h6, dl, dt {
         font-weight: bold;
         background-color: inherit;
-        color: #c00040 !important;
+        color: #cc0000 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -52,13 +52,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .header, #footer, .changeheader {
         color: black !important;
-        background-color: #d9d8d1;
+        background-color: #babdb6;
 }
         
 .header, #footer {
         height: 1.8em;
         padding: 6px 6px;
-        border: 1px solid #aaa;
+        border: 1px solid #888a85;
         margin-bottom: 4px;
         display: block;
 }
@@ -120,6 +120,6 @@ td.changelog {
  *              </div>
  */     
 #attribution img {
-        border: 1px solid black;
+        border: 1px solid 555753;
         padding: 2px;
 }
