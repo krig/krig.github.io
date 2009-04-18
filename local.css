@@ -1,6 +1,6 @@
 body {
     font-family: "Droid Sans", sans-serif;
-    padding: 0;
+    padding: 1em;
     margin: 0;
     font-size: 18px;
     line-height: 1.5em;
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 }
         
 .header {
-    width: 100%;
+    width: 80%;
     height: 80px;
     padding: 6px 6px;
     margin-bottom: 4px;
@@ -85,7 +85,7 @@ span.header {
         background-image: url(http://www.gravatar.com/avatar/f41bc221bdd1d7eac760e548cb748db3);
         
         background-repeat: no-repeat;
-        background-position: 99%;
+        background-position: 95%;
 }
 
 /* 
