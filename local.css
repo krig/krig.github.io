@@ -2,7 +2,7 @@ body {
     font-family: "Times New Roman", Times, serif;
     padding: 1em;
     margin: 0;
-    font-size: 100.01%;
+    font-size: 18px;
     line-height: 1.5em;
     color: #2e3436;
     background-color: #F7F7F7;
@@ -15,6 +15,9 @@ input {
 
 #content {
     width: 75%;
+    text-align: left;
+    line-height: 1.4em;
+    margin: 1em auto;
 }
 
 pre, tt, code {
@@ -67,7 +70,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header {
-        font-size: 120.01%;
+        font-size: 1.2em;
+        text-transform: capitalize;
         font-weight: normal;
         letter-spacing: .11em;
 }
