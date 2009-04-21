@@ -79,6 +79,7 @@ h1, h2, h3, h4, h5, h6, dl, dt {
 
 .header a {
     color: #ff7f00;
+    text-decoration: none;
 }
 
 .header a:visited {
@@ -87,6 +88,7 @@ h1, h2, h3, h4, h5, h6, dl, dt {
 
 .header a:hover {
     color: #ffaf3f;
+    text-decoration: underline;
 }
 
 span.header {
