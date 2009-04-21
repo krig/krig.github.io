@@ -10,7 +10,6 @@
 
 
 
-
 </head>
 <body>
 
@@ -19,7 +18,7 @@
 <span>
 <span class="parentlinks">
 
-<a href="../">krig</a>/ 
+<a href="./../">krig</a>/ 
 
 </span>
 <span class="title">
@@ -39,10 +38,10 @@ shortcuts
 
 <p>Some examples of using shortcuts include:</p>
 
-<pre><code>[[!google  foo]]
-[[!wikipedia  War_of_1812]]
-[[!debbug  12345]]
-Check the [[!cia  ikiwiki desc="CIA page for %s"]].
+<pre><code>[[!google foo]]
+[[!wikipedia War_of_1812]]
+[[!debbug 12345]]
+Check the [[!cia ikiwiki desc="CIA page for %s"]].
 </code></pre>
 
 <p>This page controls what shortcut links the wiki supports.</p>
@@ -64,9 +63,9 @@ Check the [[!cia  ikiwiki desc="CIA page for %s"]].
 <li>shortcut debrt points to <i>https://rt.debian.org/Ticket/Display.html?id=%s</i></li>
 <li>shortcut debss points to <i>http://snapshot.debian.net/package/%s</i>
 <ul>
-<li>Usage: <code>[[!debss  package]]</code>, <code>[[!debss  package#version]]</code>, or <code>[[!debss  package/version]]</code>.  See http://snapshot.debian.net for details.</li>
+<li>Usage: <code>[[!debss package]]</code>, <code>[[!debss package#version]]</code>, or <code>[[!debss package/version]]</code>.  See http://snapshot.debian.net for details.
+shortcut debwiki points to <i>http://wiki.debian.org/%s</i></li>
 </ul></li>
-<li>shortcut debwiki points to <i>http://wiki.debian.org/%s</i></li>
 <li>shortcut fdobug points to <i>https://bugs.freedesktop.org/show_bug.cgi?id=%s</i></li>
 <li>shortcut fdolist points to <i>http://lists.freedesktop.org/mailman/listinfo/%s</i></li>
 <li>shortcut gnomebug points to <i>http://bugzilla.gnome.org/show_bug.cgi?id=%s</i></li>
@@ -101,13 +100,13 @@ Check the [[!cia  ikiwiki desc="CIA page for %s"]].
 </ul>
 
 <p>To add a new shortcut, use the <code>shortcut</code>
-<a href="../ikiwiki/directive/">directive</a>. In the url, "%s" is replaced with the
+<a href="./../ikiwiki/preprocessordirective/">PreprocessorDirective</a>. In the url, "%s" is replaced with the
 text passed to the named shortcut, after url-encoding it, and '%S' is
 replaced with the raw, non-encoded text. The optional <code>desc</code> parameter
 controls the description of the link.</p>
 
 <p>Remember that the <code>name</code> you give the shortcut will become a new
-<a href="../ikiwiki/directive/">directive</a>.  Avoid using a <code>name</code> that conflicts
+<a href="./../ikiwiki/preprocessordirective/">PreprocessorDirective</a>.  Avoid using a <code>name</code> that conflicts
 with an existing directive.  These directives also accept a <code>desc</code>
 parameter that will override the one provided at definition time.</p>
 
@@ -118,8 +117,6 @@ ikiwiki will include your shortcut in the standard underlay.</p>
 
 </div>
 
-
-
 <div id="footer" class="pagefooter">
 <div id="pageinfo">
 
@@ -129,7 +126,7 @@ ikiwiki will include your shortcut in the standard underlay.</p>
 <div id="backlinks">
 Links:
 
-<a href="../ikiwiki/formatting/">ikiwiki/formatting</a>
+<a href="./../ikiwiki/formatting/">ikiwiki/formatting</a>
 
 
 </div><!-- #backlinks -->
@@ -140,8 +137,8 @@ Links:
 
 
 <div class="pagedate">
-Last edited <span class="date">2009-03-05 19:16</span>
-<!-- Created <span class="date">2009-03-05 19:16</span> -->
+Last edited 2008-08-04 18:43
+<!-- Created 2008-08-04 18:43 -->
 </div>
 
 </div><!-- #pageinfo -->

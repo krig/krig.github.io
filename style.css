@@ -12,7 +12,7 @@
 	display: block;
 }
 
-.inlineheader .author {
+.author {
 	margin: 0;
 	font-size: 18px;
 	font-weight: bold;
@@ -23,17 +23,11 @@
 	margin: 0;
 	padding: 6px;
 	list-style-type: none;
-}
-.pageheader .actions ul {
 	border-bottom: 1px solid #000;
 }
 
 .inlinepage .actions ul {
 	border-bottom: 0;
-}
-
-div.inlinecontent {
-	margin-top: .4em;
 }
 
 .actions li {
@@ -42,9 +36,6 @@ div.inlinecontent {
 }
 
 .pagefooter {
-	clear: both;
-}
-.inlinefooter {
 	clear: both;
 }
 
@@ -91,7 +82,6 @@ div.recentchanges {
 	border-style: solid;
 	border-width: 1px;
 	overflow: auto;
-	clear: both;
 	width: 100%;
 	background: #eee;
 	color: black !important;
@@ -215,8 +205,6 @@ div.recentchanges {
 	margin-left: 40px;
 	margin-bottom: 40px;
 	padding: 2ex 2ex;
-	background: white;
-	color: black !important;
 }
 
 /* outlines */
@@ -258,36 +246,12 @@ div.poll {
 	border: 1px solid #aaa;
 }
 
-div.progress {
-	margin-top: 1ex;
-	margin-bottom: 1ex;
-	border: 1px solid #888;
-	width: 400px;
-	background: #eee;
-	color: black !important;
-	padding: 1px;
-}
-div.progress-done {
-	background: #ea6 !important;
-	color: black !important;
-	text-align: center;
-	padding: 1px;
-}
-
 input#openid_url {
 	background: url(wikiicons/openidlogin-bg.gif) no-repeat;
 	background-color: #fff;
 	background-position: 0 50%;
 	color: #000;
 	padding-left: 18px;
-}
-
-input#searchbox {
-	background: url(wikiicons/search-bg.gif) no-repeat;
-	background-color: #fff;
-	background-position: 100% 50%;
-	color: #000;
-	padding-right: 16px;
 }
 
 /* Things to hide in printouts. */
@@ -308,8 +272,6 @@ input#searchbox {
 	margin-bottom: 1ex;
 	padding: 1ex 1ex;
 	border: 1px solid #aaa;
-	background: white;
-	color: black !important;
 }
 
 /* Provided for use by template plugin for floating note boxes. */
@@ -320,9 +282,7 @@ input#searchbox {
 	margin-bottom: 1ex;
 	padding: 1ex 1ex;
 	border: 1px solid #aaa;
-	width: 25%;
-	background: white;
-	color: black !important;
+	width: 25%
 }
 
 /* Used by the popup template and for backlinks hiding. */
@@ -344,6 +304,11 @@ input#searchbox {
 	border: 2px solid;
 	background-color: #dee;
 	color: black;
+	
+	/* Nonstandard, but very nice. */
+	opacity: 0.95;
+	-moz-opacity: 0.95;
+	filter: alpha(opacity=95);
 }
 
 /* Formbuilder styling */
@@ -367,23 +332,4 @@ legend {
 	border: 1px solid #aaa;
 	background: #eee; 
 	color: black !important;
-}
-
-span.color {
-	padding: 2px;
-}
-
-.comment-header {
-	font-style: italic;
-	margin-top: .3em;
-}
-.comment .author {
-	font-weight: bold;
-}
-.comment-subject {
-	font-weight: bold;
-}
-.comment {
-	border: 1px solid #aaa;
-	padding: 3px;
 }
