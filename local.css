@@ -77,6 +77,18 @@ h1, h2, h3, h4, h5, h6, dl, dt {
     font-weight: bold;
 }
 
+.header a {
+    color: #ff7f00;
+}
+
+.header a:visited {
+    color: #cc0000;
+}
+
+.header a:hover {
+    color: #ffaf3f;
+}
+
 span.header {
         background-image: none !important;
         text-align: right;
