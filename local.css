@@ -23,13 +23,14 @@ input {
 }
 
 pre, tt, code {
-        font-family: 
-        "Droid Sans Mono",
-        "Liberation Mono",
-        "Monaco",
-        "Bitstream Vera Sans Mono",
-        monospace;
-	font-size: 12px;
+    font-family: 
+    "Droid Sans Mono",
+    "Liberation Mono",
+    "Monaco",
+    "Bitstream Vera Sans Mono",
+    monospace;
+    font-size: 12px;
+    line-height: 1.05em;
 }
 
 pre, tt, code, tr.changeinfo, #blogform {
