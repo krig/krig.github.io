@@ -42,7 +42,7 @@ pre {
 }
 
 h1, h2, h3, h4, h5, h6, dl, dt {
-    color: #cc0000;
+    color: #37342E;
     text-transform:lowercase;
     font-family: Georgia, "Times New Roman", Times, serif;
 }
@@ -59,8 +59,8 @@ h1, h2, h3, h4, h5, h6, dl, dt {
     height: 1.5em;
     margin-bottom: 4px;
     color: #cccccc;
-    background: #222;
-    border-bottom: 3px solid #444;
+    background: #37342E;
+    border-bottom: 3px solid #6E7361;
     display: block;
 }
 
