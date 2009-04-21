@@ -29,6 +29,7 @@ pre, tt, code {
         "Monaco",
         "Bitstream Vera Sans Mono",
         monospace;
+	font-size: 12px;
 }
 
 pre, tt, code, tr.changeinfo, #blogform {
