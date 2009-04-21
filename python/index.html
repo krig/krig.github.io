@@ -36,6 +36,53 @@ python
 <div id="content">
 <h1>nothing here yet</h1>
 
+<blockquote>
+  <p>This is a blockquote</p>
+</blockquote>
+
+<pre><code>This is a block of code?
+
+class _index(dict):
+    def __init__(self, mdict):
+        dict.__init__(self)
+        self._mdict = mdict
+
+    def __setitem__(self, name, value):
+        raise AttributeError("setting values is not allowed on multidict indices, use add() on the multidict")
+
+    def __delitem__(self, item):
+        itm = dict.__getitem__(self, item)
+        self._mdict.remove(itm)
+
+    def priv_set(self, name, value):
+        dict.__setitem__(self, name, value)
+
+    def priv_del(self, item):
+        dict.__delitem__(self, item)
+</code></pre>
+
+<p>I wonder if this works...</p>
+
+<pre>
+class _index(dict):
+    def __init__(self, mdict):
+        dict.__init__(self)
+        self._mdict = mdict
+
+    def __setitem__(self, name, value):
+        raise AttributeError("setting values is not allowed on multidict indices, use add() on the multidict")
+
+    def __delitem__(self, item):
+        itm = dict.__getitem__(self, item)
+        self._mdict.remove(itm)
+
+    def priv_set(self, name, value):
+        dict.__setitem__(self, name, value)
+
+    def priv_del(self, item):
+        dict.__delitem__(self, item)
+</pre>
+
 </div>
 
 <div id="footer" class="pagefooter">
@@ -58,7 +105,7 @@ Links:
 
 
 <div class="pagedate">
-Last edited 2009-04-21 17:07
+Last edited 2009-04-21 18:42
 <!-- Created 2009-04-21 17:07 -->
 </div>
 
