@@ -40,7 +40,7 @@ pre {
 }
 
 h1, h2, h3, h4, h5, h6, dl, dt {
-    text-transform:capitalize;
+    text-transform:lowercase;
     font-family: Georgia, "Times New Roman", Times, serif;
 }
 
