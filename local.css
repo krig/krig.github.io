@@ -14,10 +14,11 @@ input {
 }
 
 #content {
-    width: 75%;
     text-align: left;
     line-height: 1.4em;
     margin: 1em auto;
+    width: 75%;
+    max-width: 800px;
 }
 
 pre, tt, code {
