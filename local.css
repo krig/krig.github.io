@@ -1,10 +1,10 @@
 body {
-    font-family: "Droid Sans", sans-serif;
+    font-family:"Times New Roman", Times, serif;
     padding: 1em;
     margin: 0;
     font-size: 18px;
     line-height: 1.5em;
-    color: #2e3436;
+    color: #222;
     background-color: #FFFFFF;
 }
 
@@ -40,16 +40,9 @@ pre {
 }
 
 h1, h2, h3, h4, h5, h6, dl, dt {
-    font-family: "Droid Sans", sans-serif;
-    font-weight: bold;
-    background-color: inherit;
-    color: #cc0000 !important;
+    text-transform:capitalize;
+    font-family: Georgia, "Times New Roman", Times, serif;
 }
-
-h1, h2, h3, h4, h5, h6 {
-        letter-spacing: .04em;
-}
-
 
 /* 
  * -----------------------------------------------------------------------------
@@ -57,35 +50,23 @@ h1, h2, h3, h4, h5, h6 {
  * -----------------------------------------------------------------------------
  */
 
-.header, .changeheader {
-        color: #2e3436 !important;
-        background-color: #eeeeee;
-}
-        
 .header {
     width: 100%;
-    height: 80px;
-    padding: 6px 6px;
+    height: 64px;
+    padding: 8px 8px;
     margin-bottom: 4px;
     display: block;
+    border-bottom: 1px solid #555;
 }
 
 .header {
         font-size: 0.8em;
-        font-weight: normal;
-        letter-spacing: .11em;
+        font-weight: bold;
 }
 
 span.header {
         background-image: none !important;
         text-align: right;
-}
-
-.header { /* Optional header logo (right aligned). */
-        background-image: url(http://www.gravatar.com/avatar/f41bc221bdd1d7eac760e548cb748db3);
-        
-        background-repeat: no-repeat;
-        background-position: 95%;
 }
 
 /* 
@@ -123,4 +104,8 @@ td.changelog {
 #attribution img {
         border: 1px solid 555753;
         padding: 2px;
+}
+
+.pagedate {
+    font-size: x-small;
 }
