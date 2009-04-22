@@ -26,7 +26,7 @@
 <span>
 <span class="parentlinks">
 
-<a href="./../">krig</a>/ 
+<a href="../">krighub</a>/ 
 
 </span>
 <span class="title">
@@ -47,8 +47,6 @@ templates
 <p>Templates are files that can be filled out and inserted into pages in the
 wiki.</p>
 
-<h2>Available templates</h2>
-
 <p>These templates are available for inclusion onto other pages in this
 wiki:</p>
 
@@ -56,11 +54,11 @@ wiki:</p>
 <p><a href="./popup/">popup</a></p>
 
 
-<h2>Using a template</h2>
+<h2 id="usingatemplate">Using a template</h2>
 
 <p>Using a template works like this:</p>
 
-<pre><code>[[!template id=note text="""Here is the text to insert into my note."""]]
+<pre><code>[[!template  id=note text="""Here is the text to insert into my note."""]]
 </code></pre>
 
 <p>This fills out the <a href="./note/">note</a> template, filling in the <code>text</code> field with
@@ -71,14 +69,14 @@ page outside the template. Triple-quoting the value even allows quotes to
 be included in it. Combined with multi-line quoted values, this allows for
 large chunks of marked up text to be embedded into a template:</p>
 
-<pre><code>    [[!template id=foo name="Sally" color="green" age=8 notes="""
+<pre><code>    [[!template  id=foo name="Sally" color="green" age=8 notes="""
     * [[Charley]]'s sister.
     * "I want to be an astronaut when I grow up."
     * Really 8 and a half.
     """]]
 </code></pre>
 
-<h2>Creating a template</h2>
+<h2 id="creatingatemplate">Creating a template</h2>
 
 <p>To create a template, simply add a template directive to a page, and the 
 page will provide a link that can be used to create the template. The template
@@ -126,9 +124,10 @@ that contains it, so you can include WikiLinks and all other forms of wiki
 markup in the template. Note though that such WikiLinks will not show up as
 backlinks to the page that uses the template.</p>
 
-<p>Note the use of "raw_name" inside the <a href="./../wikilink/">WikiLink</a> generator. This ensures
-that if the name contains something that might be mistaken for wiki markup,
-it's not converted to html before being processed as a <a href="./../wikilink/">WikiLink</a>.</p>
+<p>Note the use of "raw_name" inside the <a href="../ikiwiki/wikilink/">WikiLink</a> generator. This
+ensures that if the name contains something that might be mistaken for wiki
+markup, it's not converted to html before being processed as a
+<a href="../ikiwiki/wikilink/">WikiLink</a>.</p>
 
 </div>
 
@@ -141,7 +140,7 @@ it's not converted to html before being processed as a <a href="./../wikilink/">
 <div id="backlinks">
 Links:
 
-<a href="./../ikiwiki/formatting/">ikiwiki/formatting</a>
+<a href="../ikiwiki/formatting/">ikiwiki/formatting</a>
 
 
 </div><!-- #backlinks -->
@@ -152,13 +151,13 @@ Links:
 
 
 <div class="pagedate">
-Last edited 2008-08-04 18:43
-<!-- Created 2008-08-04 18:43 -->
+Last edited <span class="date">2009-03-05 19:16</span>
+<!-- Created <span class="date">2008-08-04 18:43</span> -->
 </div>
 
 </div><!-- #pageinfo -->
 
-<!-- from krig -->
+<!-- from krighub -->
 </div><!-- .pagefooter #footer -->
 
 </body>

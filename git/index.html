@@ -26,7 +26,7 @@
 <span>
 <span class="parentlinks">
 
-<a href="./../">krig</a>/ 
+<a href="../">krighub</a>/ 
 
 </span>
 <span class="title">
@@ -42,7 +42,48 @@ git
 
 
 <div id="content">
-<h1>nothing here yet</h1>
+<h1 id="yaydistributed">yay distributed</h1>
+
+<p>Here's some crap you might care about. If you care about
+<a href="http://git-scm.org/" title="git version control">Git</a>.</p>
+
+<h3 id="gitdiff--cached">git diff --cached</h3>
+
+<p>Something I learned existed just a few days ago: You know how, when
+you've added some files to the index and are about to commit, you
+always want to take a last look at the diff to see if there's any
+retarded mistakes you might have missed? And how <code>git diff</code> only shows
+the differences between the working copy and the index? Well, 
+<code>git diff --cached</code> to the rescue. Oh, and <code>git diff HEAD</code> compares the
+working copy to HEAD. But I already knew that.</p>
+
+<h3 id="giggle">giggle</h3>
+
+<p>I have a fork of it on github that I haven't committed anything to
+(yet). Anyway, <a href="http://live.gnome.org/giggle" title="giggle">giggle</a> the best tool for getting an overview of
+the state of your repository. Hands down.
+(freedom haters begone, though)</p>
+
+<h3 id="gitpulln">git pulln</h3>
+
+<p>A simple script to do <code>git pull --rebase</code> in multiple repositories at
+once.</p>
+
+<pre><code>#!/bin/bash
+say() {
+  echo -e "\033[1m&#036;*\033[m"
+}
+
+for P in "&#036;@"; do
+  if [ -d &#036;P ]; then
+    WD=`pwd`
+    cd &#036;P
+    say "Pulling &#036;P"
+    git pull --rebase
+    cd &#036;WD
+  fi
+done
+</code></pre>
 
 </div>
 
@@ -55,9 +96,9 @@ git
 <div id="backlinks">
 Links:
 
-<a href="./../">index</a>
+<a href="../">index</a>
 
-<a href="./../linux/">linux</a>
+<a href="../linux/">linux</a>
 
 
 </div><!-- #backlinks -->
@@ -68,13 +109,13 @@ Links:
 
 
 <div class="pagedate">
-Last edited 2009-04-21 17:07
-<!-- Created 2009-04-21 17:07 -->
+Last edited <span class="date">2009-04-22 22:10</span>
+<!-- Created <span class="date">2009-04-21 17:07</span> -->
 </div>
 
 </div><!-- #pageinfo -->
 
-<!-- from krig -->
+<!-- from krighub -->
 </div><!-- .pagefooter #footer -->
 
 </body>
