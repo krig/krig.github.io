@@ -20,7 +20,6 @@ input {
     margin-right: auto;
     width: 75%;
     max-width: 545px;
-    text-ident: -0.8em;
 }
 
 #content p {
@@ -52,10 +51,11 @@ pre {
 
 h1, h2, h3, h4, h5, h6, dl, dt {
     /*color: #37342E;*/
-    background: #f0f0f0;
+    /*background: #f0f0f0;*/
     color: #333;
-    letter-spacing: -1px;
-    text-transform:lowercase;
+/*    letter-spacing: -1px;*/
+    text-transform:capitalize;
+    /*text-transform:lowercase;*/
     font-weight: bold;
     font-family: Georgia, "Times New Roman", Times, serif;
 }
@@ -114,6 +114,27 @@ span.header {
         text-align: right;
 }
 
+.pagefooter {
+    /*border-bottom: 1px solid #6E7361;*/
+}
+
+#pageinfo {
+    border-top: 2px dashed #444;
+}
+
+.pagedate {
+        font-style: normal;
+        font-size: 14px;
+        color: #aaa;
+        display: block;
+        margin-top: 0em;
+        margin-bottom: px;
+}
+
+.date {
+    color: #000;
+}
+
 /* 
  * -----------------------------------------------------------------------------
  * Specials.
@@ -151,6 +172,28 @@ td.changelog {
         padding: 2px;
 }
 
-.pagedate {
-    font-size: x-small;
+.pagecloud {
+    float: none;
+    width: 100%;
+    border: 1px;
+    /*text-transform:capitalize;*/
+    margin: 0px;
+    font-weight: bold;
+    background: #fff;
+}
+
+.smallestPC { font-size: 14px; }
+.smallPC { font-size: 16px; }
+.normalPC { font-size: 20px; }
+.bigPC { font-size: 26px; }
+.biggestPC { font-size: 32px; }
+
+.pagecloud a {
+    text-decoration: none;
+    color: #833;
+}
+
+.pagecloud a:hover {
+    color: #66f;
+    text-decoration: underline;
 }
