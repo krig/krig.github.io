@@ -373,13 +373,11 @@ span.color {
 	padding: 2px;
 }
 
-.comment-header,
-.microblog-header {
+.comment-header {
 	font-style: italic;
 	margin-top: .3em;
 }
-.comment .author,
-.microblog .author {
+.comment .author {
 	font-weight: bold;
 }
 .comment-subject {
