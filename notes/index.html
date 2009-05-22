@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>python</title>
+<title>notes</title>
 
 <link rel="icon" href="../favicon.ico" type="image/x-icon" />
 
@@ -34,7 +34,7 @@
 
 </span>
 <span class="title">
-python
+notes
 </span>
 </span><!--.header-->
 
@@ -46,28 +46,12 @@ python
 
 
 <div id="content">
-<h1 id="nobodyexpects">nobody expects</h1>
+<h1 id="randomnotes">Random notes</h1>
 
-<p>Some day, I might actually write something about python here.</p>
-
-<pre><code>class _index(dict):
-    def __init__(self, mdict):
-        dict.__init__(self)
-        self._mdict = mdict
-
-    def __setitem__(self, name, value):
-        raise AttributeError("setting values is not allowed on multidict indices, use add() on the multidict")
-
-    def __delitem__(self, item):
-        itm = dict.__getitem__(self, item)
-        self._mdict.remove(itm)
-
-    def priv_set(self, name, value):
-        dict.__setitem__(self, name, value)
-
-    def priv_del(self, item):
-        dict.__delitem__(self, item)
-</code></pre>
+<p>Really, what is the difference betweeen <a href="../rants/">rants</a> and notes? Why
+create a page devoted to unsorted notes on undefined topics, when
+there already is one? It is a sure sign of the decline of this age
+when this is the best there is to offer.</p>
 
 </div>
 
@@ -85,8 +69,8 @@ python
 
 
 <div class="pagedate">
-Last edited <span class="date">2009-05-22 16:14</span>
-<!-- Created <span class="date">2009-04-21 17:07</span> -->
+Last edited <span class="date">2009-05-22 18:07</span>
+<!-- Created <span class="date">2009-05-22 18:07</span> -->
 </div>
 
 </div><!-- #pageinfo -->
