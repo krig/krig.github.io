@@ -48,26 +48,24 @@ python
 <div id="content">
 <h1 id="nobodyexpects">nobody expects</h1>
 
-<p>Some day, I might actually write something about python here.</p>
+<p>Python is a very interesting programming language. The syntax is one
+of the cleanest I have seen. It is extremely expressive. When writing
+python, it feels like writing pseudocode. There is no worrying about
+datatypes, and because the interpreter is so slow you stop worrying so
+much about performance. That is, it makes the algorithms stand out
+clearly, and in that sense it actually helps optimization since you
+spend time finding a cleaner way of expressing a problem rather than
+minimizing the number of bytes a class takes in memory.</p>
 
-<pre><code>class _index(dict):
-    def __init__(self, mdict):
-        dict.__init__(self)
-        self._mdict = mdict
+<p>Of course, that's the main issue with Python as well. The overhead,
+both in runtime performance and memory usage is beyond
+ridiculous. There is no functional threading support. The API for
+writing C extensions is ugly and convoluted. The underlying
+implementation bleeds through in nasty ways to the language itself.</p>
 
-    def __setitem__(self, name, value):
-        raise AttributeError("setting values is not allowed on multidict indices, use add() on the multidict")
-
-    def __delitem__(self, item):
-        itm = dict.__getitem__(self, item)
-        self._mdict.remove(itm)
-
-    def priv_set(self, name, value):
-        dict.__setitem__(self, name, value)
-
-    def priv_del(self, item):
-        dict.__delitem__(self, item)
-</code></pre>
+<p>What I'd want is a compiled language that has the syntax of Python,
+but also has true garbage collection. I'd even accept implicit static
+typing in some cases.</p>
 
 </div>
 
@@ -85,7 +83,7 @@ python
 
 
 <div class="pagedate">
-Last edited <span class="date">2009-07-13 12:14</span>
+Last edited <span class="date">2009-09-10 19:48</span>
 <!-- Created <span class="date">2009-04-21 17:07</span> -->
 </div>
 
