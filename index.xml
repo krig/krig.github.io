@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kri.gs</title>
+    <link>http://kri.gs/</link>
+    <description>Recent content on kri.gs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015, Kristoffer Gr&amp;ouml;nlund</copyright>
+    <lastBuildDate>Sat, 24 Oct 2015 20:14:17 +0200</lastBuildDate>
+    <atom:link href="http://kri.gs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://kri.gs/about/</link>
+      <pubDate>Sat, 24 Oct 2015 20:14:17 +0200</pubDate>
+      
+      <guid>http://kri.gs/about/</guid>
+      <description>&lt;div  class=&#34;centered&#34; &gt;
+  &lt;img src=&#34;http://kri.gs/img/self_with_cat.png&#34; &gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;This is the personal website of &lt;strong&gt;Kristoffer Gr&amp;ouml;nlund&lt;/strong&gt;. Unless you
+know who that is, nothing on this page is likely to interest you. On
+the other hand, if you already know who that is, why read this at all?&lt;/p&gt;
+
+&lt;p&gt;If, after all, you do know me, it may be from such features as&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se&#34;&gt;kodsnack&lt;/a&gt; - A coding podcast in swedish&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://crmsh.github.io&#34;&gt;crmsh&lt;/a&gt; - A cluster command line shell&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ClusterLabs/hawk&#34;&gt;hawk&lt;/a&gt; - A cluster web interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/World_in_Conflict&#34;&gt;world in conflict&lt;/a&gt; - A real-time strategy game&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/krig&#34;&gt;github.com/krig&lt;/a&gt; - Some other random source code I&amp;rsquo;ve put on Github&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This site is not a regular blog. I&amp;rsquo;ve tried to make that happen, but
+lets face it. Blogs are dead. I have a &lt;a href=&#34;http://koru.se&#34;&gt;tumblr&lt;/a&gt;, feel
+free to read that &amp;ndash; but to be honest, I&amp;rsquo;ve given up on the tumblr as
+well. I&amp;rsquo;m also on twitter as
+&lt;a href=&#34;https://twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
