@@ -17,7 +17,7 @@
       
       <guid>http://kri.gs/about/</guid>
       <description>&lt;div  class=&#34;centered&#34; &gt;
-  &lt;img src=&#34;http://kri.gs/img/self_with_cat.png&#34; &gt;
+  &lt;img src=&#34;http://kri.gs/img/self_with_cat.png&#34; alt=&#34;self&#34; width=&#34;240px&#34; height=&#34;260px&#34;&gt;
 &lt;/div&gt;
 
 
