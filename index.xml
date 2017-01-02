@@ -7,11 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Sat, 24 Oct 2015 20:14:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2017 19:05:13 +0100</lastBuildDate>
     <atom:link href="http://kri.gs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>about</title>
+      <title>Hiding in the Shadow of Neptune</title>
+      <link>http://kri.gs/neptune/</link>
+      <pubDate>Mon, 02 Jan 2017 19:05:13 +0100</pubDate>
+      
+      <guid>http://kri.gs/neptune/</guid>
+      <description>&lt;div style=&#34;width:640px;margin-left:auto;margin-right:auto;&#34;&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34;
+src=&#34;https://www.youtube.com/embed/l5S6GxseYj8?rel=0&amp;amp;showinfo=0&#34;
+frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
       <link>http://kri.gs/about/</link>
       <pubDate>Sat, 24 Oct 2015 20:14:17 +0200</pubDate>
       
