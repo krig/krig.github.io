@@ -7,8 +7,132 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Mon, 02 Jan 2017 19:05:13 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 09:03:23 +0100</lastBuildDate>
     <atom:link href="http://kri.gs/categories/whatever/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Package Managers #lca2017</title>
+      <link>http://kri.gs/lca2017/</link>
+      <pubDate>Fri, 20 Jan 2017 09:03:23 +0100</pubDate>
+      
+      <guid>http://kri.gs/lca2017/</guid>
+      <description>
+
+&lt;p&gt;&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;&lt;div class=&#39;embed-container&#39;&gt;&lt;iframe src=&#39;https://www.youtube.com/embed/4ua5aeKKDzU?rel=0&amp;amp;showinfo=0&#39; frameborder=&#39;0&#39; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;talks:31f4fa20ad8c5cf6b7540a12247235f4&#34;&gt;Talks&lt;/h4&gt;
+
+&lt;p&gt;These are some other relevant talks from
+&lt;a href=&#34;https://www.linux.conf.au/&#34;&gt;lca2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W2AR1owg0ao&#34;&gt;Consider the Maintainer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=r6EcUyamu94&#34;&gt;Rootless containers with runC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Gge3RiuyPvY&#34;&gt;Drink from the firehose: release-monitoring.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;links:31f4fa20ad8c5cf6b7540a12247235f4&#34;&gt;Links&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.infoq.com/presentations/Simple-Made-Easy&#34;&gt;Simple made easy (Rich Hickey)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gTAghAJcO1o&#34;&gt;The future doesn&amp;rsquo;t have to be incremental (Alan Kay)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nixos.org/nix/&#34;&gt;nix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/guix/&#34;&gt;guix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://reproducible-builds.org&#34;&gt;reproducible-builds.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://appimage.org/&#34;&gt;appimage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://snapcraft.io/&#34;&gt;snap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://flatpak.org/&#34;&gt;flatpak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.qubes-os.org/&#34;&gt;qubes os&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.projectatomic.io/&#34;&gt;project atomic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freedesktop.org/wiki/Software/systemd/&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;credits:31f4fa20ad8c5cf6b7540a12247235f4&#34;&gt;Credits&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+South Lapland video / &lt;a href=&#34;https://www.youtube.com/watch?v=i26ttZxHSBU&#34;&gt;Standard Youtube
+License&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Alan Kay by 
+&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Alan_Kay_and_the_prototype_of_Dynabook,_pt._5_(3010032738).jpg&#34;&gt;Marcin Wichary&lt;/a&gt; / &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34;&gt;CC-BY-2.0&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Rustacean by &lt;a href=&#34;http://www.rustacean.net/&#34;&gt;Karen Rustad T&amp;ouml;lva&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Hawk logo by &lt;a href=&#34;https://dribbble.com/manuelecarlini&#34;&gt;Manuele
+Carlini&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;OpenSUSE logo by the &lt;a href=&#34;https://opensuse.org/&#34;&gt;openSUSE&lt;/a&gt;
+artwork team&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;swedes-and-swearing:31f4fa20ad8c5cf6b7540a12247235f4&#34;&gt;Swedes and swearing&lt;/h4&gt;
+
+&lt;p&gt;In the beginning of the talk I mention that swedes don&amp;rsquo;t understand
+swearing, but I didn&amp;rsquo;t do a great job of explaining what I
+meant. Here&amp;rsquo;s a (hopefully) more understandable version.&lt;/p&gt;
+
+&lt;p&gt;First of all, what are swear words? I&amp;rsquo;m not a linguist, but I would
+call them &lt;em&gt;amplifiers&lt;/em&gt;. A swear word expresses an amplified emotion.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Good&lt;/li&gt;
+&lt;li&gt;Very Good&lt;/li&gt;
+&lt;li&gt;Really Good&lt;/li&gt;
+&lt;li&gt;Damn Good&lt;/li&gt;
+&lt;li&gt;Really Fucking Good&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this sense, the swedish language does have swear words, as in words
+that are used as emotional amplifiers. But the amplifiers in swedish
+are just that. They are largely meaningless words that reference
+devils or hell that don&amp;rsquo;t have any other connotations that might
+offend someone. So in swedish, you&amp;rsquo;d say&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bra (Good)&lt;/li&gt;
+&lt;li&gt;Jättebra (Really Good /&lt;em&gt;Giant Good&lt;/em&gt;/)&lt;/li&gt;
+&lt;li&gt;Skitbra (Damn Good /&lt;em&gt;Shit Good&lt;/em&gt;/)&lt;/li&gt;
+&lt;li&gt;Jävligt Bra (Really Fucking Good /&lt;em&gt;Devilishly Good&lt;/em&gt;/)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As you can see, that last one doesn&amp;rsquo;t quite match the english
+variant. Due to this, swearing in swedish isn&amp;rsquo;t really all that
+frowned upon. You may have heard someone say &amp;ldquo;Oh, in Sweden they are
+so enlightened and liberal, they don&amp;rsquo;t bleep words on TV&amp;rdquo; or something
+similar, or maybe you&amp;rsquo;ve even heard a swede say this and not
+understanding why you&amp;rsquo;d bleep words in other countries.&lt;/p&gt;
+
+&lt;p&gt;Well, this non-understanding carries over when learning a second
+language. As it seems to me,
+my brain still basically forms sentences in Swedish, selecting words
+from categories like verb, noun and amplifier. So when building
+sentences, my brain will insert swedish &amp;ldquo;swears&amp;rdquo; here and there - as
+we do.&lt;/p&gt;
+
+&lt;p&gt;It then starts translating the sentence to english, first by replacing
+words in each category with the closest matching word in
+english. Well, having largely learned to speak english by watching
+films by Quentin Tarantino, the sentences tend to end up containing
+quite a bit of fucking, and possibly one or two motherfuckers. The
+next step is to rearrange and throw away words that don&amp;rsquo;t make sense,
+and adding words where needed. And the step after that is to look at
+the whole sentence, go &amp;ldquo;hmm, this sounds a bit too rude doesn&amp;rsquo;t it&amp;rdquo;
+and strip out much of the fucking and the motherfuckers.&lt;/p&gt;
+
+&lt;p&gt;Well, when in a high pressure situation, having to both think and
+speak quickly, such as when speaking at a conference, the brain is apt
+to start dropping frames. And it does this by dropping stages of the
+internal translation process. So maybe I&amp;rsquo;ll start getting word order
+wrong, or some word might not get translated properly and come out in
+swedish. Or, the cleanup phase that tries to get the sentence back to
+the intended level of swearyness drops off and I start sounding like
+an angry sailor.&lt;/p&gt;
+
+&lt;p&gt;Again, not a linguist, not an expert. This is likely to be a grossly
+oversimplified version of the real mechanism. But it seems somewhat
+accurate.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hiding in the Shadow of Neptune</title>

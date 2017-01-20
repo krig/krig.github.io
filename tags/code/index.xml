@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kri.gs</title>
-    <link>http://kri.gs/</link>
-    <description>Recent content on kri.gs</description>
+    <title>Code on kri.gs</title>
+    <link>http://kri.gs/tags/code/</link>
+    <description>Recent content in Code on kri.gs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015, Kristoffer Gr&amp;ouml;nlund</copyright>
     <lastBuildDate>Fri, 20 Jan 2017 09:03:23 +0100</lastBuildDate>
-    <atom:link href="http://kri.gs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kri.gs/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Package Managers #lca2017</title>
@@ -131,50 +131,6 @@ an angry sailor.&lt;/p&gt;
 &lt;p&gt;Again, not a linguist, not an expert. This is likely to be a grossly
 oversimplified version of the real mechanism. But it seems somewhat
 accurate.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hiding in the Shadow of Neptune</title>
-      <link>http://kri.gs/neptune/</link>
-      <pubDate>Mon, 02 Jan 2017 19:05:13 +0100</pubDate>
-      
-      <guid>http://kri.gs/neptune/</guid>
-      <description>&lt;p&gt;&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;&lt;div class=&#39;embed-container&#39;&gt;&lt;iframe src=&#39;https://www.youtube.com/embed/l5S6GxseYj8?rel=0&amp;amp;showinfo=0&#39; frameborder=&#39;0&#39; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://kri.gs/about/</link>
-      <pubDate>Sat, 24 Oct 2015 20:14:17 +0200</pubDate>
-      
-      <guid>http://kri.gs/about/</guid>
-      <description>&lt;div  class=&#34;centered&#34; &gt;
-  &lt;img src=&#34;http://kri.gs/img/self_with_cat.png&#34; alt=&#34;self&#34; width=&#34;240px&#34; height=&#34;260px&#34;&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;This is the personal website of &lt;strong&gt;Kristoffer Gr&amp;ouml;nlund&lt;/strong&gt;. Unless you
-already know who that is, nothing on this page is likely to interest
-you.&lt;/p&gt;
-
-&lt;p&gt;If, after all, you do know me, it may be from such features as&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se&#34;&gt;Kodsnack&lt;/a&gt; - A coding podcast in swedish&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://crmsh.github.io&#34;&gt;crmsh&lt;/a&gt; - A cluster command line shell&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hawk-ui.github.io&#34;&gt;Hawk&lt;/a&gt; - A cluster web interface&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/World_in_Conflict&#34;&gt;World in Conflict&lt;/a&gt; - A real-time strategy game&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/krig&#34;&gt;github.com/krig&lt;/a&gt; - Other random source code I&amp;rsquo;ve put on Github&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This site is not a regular blog. I have tried to make that happen, but
-let&amp;rsquo;s face it. Blogs are dead.&lt;/p&gt;
-
-&lt;p&gt;I do have a &lt;a href=&#34;http://koru.se&#34;&gt;tumblr&lt;/a&gt; which I update roughly once per
-year, and a &lt;a href=&#34;https://twitter.com/iskrig&#34;&gt;twitter&lt;/a&gt; account which I
-can&amp;rsquo;t seem to get rid of.&lt;/p&gt;
 </description>
     </item>
     
