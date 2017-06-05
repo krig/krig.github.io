@@ -1,25 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kri.gs/</loc>
+    <loc>http://krig.github.io/lca2017/</loc>
+    <lastmod>2017-01-20T09:03:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://krig.github.io/neptune/</loc>
+    <lastmod>2017-01-02T19:05:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://krig.github.io/about/</loc>
+    <lastmod>2015-10-24T20:14:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://krig.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://krig.github.io/tags/code/</loc>
     <lastmod>2017-01-20T09:03:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kri.gs/lca2017/</loc>
-    <lastmod>2017-01-20T09:03:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kri.gs/neptune/</loc>
+    <loc>http://krig.github.io/tags/music/</loc>
     <lastmod>2017-01-02T19:05:13+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kri.gs/about/</loc>
-    <lastmod>2015-10-24T20:14:17+02:00</lastmod>
+    <loc>http://krig.github.io/tags/</loc>
+    <lastmod>2017-01-20T09:03:23+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://krig.github.io/categories/whatever/</loc>
+    <lastmod>2017-01-20T09:03:23+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://krig.github.io/</loc>
+    <lastmod>2017-01-20T09:03:23+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

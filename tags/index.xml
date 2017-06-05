@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on krig</title>
+    <link>http://krig.github.io/tags/</link>
+    <description>Recent content in Tags on krig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Kristoffer Gr&amp;ouml;nlund</copyright>
+    <lastBuildDate>Fri, 20 Jan 2017 09:03:23 +0100</lastBuildDate>
+    
+	<atom:link href="http://krig.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code</title>
+      <link>http://krig.github.io/tags/code/</link>
+      <pubDate>Fri, 20 Jan 2017 09:03:23 +0100</pubDate>
+      
+      <guid>http://krig.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://krig.github.io/tags/music/</link>
+      <pubDate>Mon, 02 Jan 2017 19:05:13 +0100</pubDate>
+      
+      <guid>http://krig.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
