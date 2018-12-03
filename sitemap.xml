@@ -23,6 +23,12 @@
   </url>
   
   <url>
+    <loc>http://6510.nu/</loc>
+    <lastmod>2018-12-03T08:22:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://6510.nu/categories/</loc>
     <priority>0</priority>
   </url>
@@ -47,12 +53,6 @@
   
   <url>
     <loc>http://6510.nu/categories/whatever/</loc>
-    <lastmod>2018-12-03T08:22:48+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://6510.nu/</loc>
     <lastmod>2018-12-03T08:22:48+01:00</lastmod>
     <priority>0</priority>
   </url>
