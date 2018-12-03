@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on krig</title>
-    <link>http://krig.github.io/tags/music/</link>
+    <link>http://6510.nu/tags/music/</link>
     <description>Recent content in Music on krig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2017, Kristoffer Gr&amp;ouml;nlund</copyright>
+    <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
     <lastBuildDate>Mon, 02 Jan 2017 19:05:13 +0100</lastBuildDate>
     
-	<atom:link href="http://krig.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://6510.nu/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hiding in the Shadow of Neptune</title>
-      <link>http://krig.github.io/neptune/</link>
+      <link>http://6510.nu/neptune/</link>
       <pubDate>Mon, 02 Jan 2017 19:05:13 +0100</pubDate>
       
-      <guid>http://krig.github.io/neptune/</guid>
+      <guid>http://6510.nu/neptune/</guid>
       <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</description>
     </item>
     
