@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Whatever on 6510</title>
+    <title>whatever on 6510</title>
     <link>http://6510.nu/categories/whatever/</link>
-    <description>Recent content in Whatever on 6510</description>
+    <description>Recent content in whatever on 6510</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Mon, 03 Dec 2018 08:22:48 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 10:32:33 +0200</lastBuildDate>
     
 	<atom:link href="http://6510.nu/categories/whatever/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Let&#39;s LISP like it&#39;s 1959</title>
+      <link>http://6510.nu/1959/</link>
+      <pubDate>Sat, 06 Apr 2019 10:32:33 +0200</pubDate>
+      
+      <guid>http://6510.nu/1959/</guid>
+      <description>Presentation I did at linux.conf.au 2019 about the history of Lisp, computers and programming in general.
+Got written up as an article on LWN.net to my delight, and so far the comments have generally been surprisingly positive pretty much everywhere.
+On April 7 (2019), I will be doing an updated version of this talk at FOSS North in Gothenburg - my time slot is 15 minutes longer, so I might actually get through most of the talk this time.</description>
+    </item>
     
     <item>
       <title>Everyone gets a pony!</title>
@@ -28,8 +39,8 @@
       
       <guid>http://6510.nu/lca2017/</guid>
       <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-Talks These are some other relevant talks from lca2017.
- Consider the Maintainer Rootless containers with runC Drink from the firehose: release-monitoring.org  Links  Simple made easy (Rich Hickey) The future doesn&amp;rsquo;t have to be incremental (Alan Kay) nix guix reproducible-builds.</description>
+edit: This got written up as an article on LWN.net, a huge thank you to Jonathan Corbet for that!
+I have also been thinking about this presentation a lot in the years following - the package management problem remains unsolved and it&amp;rsquo;s still something I wrestle with.</description>
     </item>
     
     <item>
