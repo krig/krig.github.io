@@ -4,17 +4,37 @@
   
   <url>
     <loc>http://6510.nu/</loc>
-    <lastmod>2019-04-19T10:32:33+02:00</lastmod>
+    <lastmod>2019-12-31T17:27:38+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://6510.nu/categories/</loc>
-    <lastmod>2019-04-19T10:32:33+02:00</lastmod>
+    <lastmod>2019-12-31T17:27:38+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://6510.nu/tags/code/</loc>
-    <lastmod>2019-04-19T10:32:33+02:00</lastmod>
+    <lastmod>2019-12-31T17:27:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://6510.nu/tags/games/</loc>
+    <lastmod>2019-12-31T17:27:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://6510.nu/roam/</loc>
+    <lastmod>2019-12-31T17:27:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://6510.nu/tags/</loc>
+    <lastmod>2019-12-31T17:27:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://6510.nu/categories/whatever/</loc>
+    <lastmod>2019-12-31T17:27:38+01:00</lastmod>
   </url>
   
   <url>
@@ -23,17 +43,7 @@
   </url>
   
   <url>
-    <loc>http://6510.nu/tags/</loc>
-    <lastmod>2019-04-19T10:32:33+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://6510.nu/tags/talk/</loc>
-    <lastmod>2019-04-19T10:32:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://6510.nu/categories/whatever/</loc>
     <lastmod>2019-04-19T10:32:33+02:00</lastmod>
   </url>
   

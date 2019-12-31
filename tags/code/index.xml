@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 10:32:33 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 17:27:38 +0100</lastBuildDate>
     
 	<atom:link href="http://6510.nu/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roam</title>
+      <link>http://6510.nu/roam/</link>
+      <pubDate>Tue, 31 Dec 2019 17:27:38 +0100</pubDate>
+      
+      <guid>http://6510.nu/roam/</guid>
+      <description>Here, at the very last day of 2019, I thought I should start a series of posts documenting some of the hobby projects I&#39;ve created through the years. Most of them can be found on github, at least the ones that are in source code form.
+R O A M was a Hackweek project at SUSE, in which I wanted to implement a basic Minecraft-style landscape renderer in C. Source code available at github.</description>
+    </item>
     
     <item>
       <title>Let&#39;s LISP like it&#39;s 1959 (Rev. II)</title>
@@ -19,7 +29,7 @@
       
       <guid>http://6510.nu/fossnorth/</guid>
       <description>FOSS North, 2019. Second revision of this talk.
-I tried to address some of the comments I received after presenting at linux.conf.au earlier the same year. Possibly not entirely successful.</description>
+It&#39;s not exactly the same talk as at LCA, in part because I am terrible at sticking to a script but also because I rewrote at least half of the presentation, expanding on some parts and trying to actually get to the part where I implement a lisp interpreter.</description>
     </item>
     
     <item>
