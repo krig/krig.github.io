@@ -19,8 +19,8 @@
       
       <guid>http://6510.nu/1959/</guid>
       <description>Presentation I did at linux.conf.au 2019 about the history of Lisp, computers and programming in general.
-Got written up as an article on LWN.netto my delight, and so far the comments have generally been surprisingly positive pretty much everywhere.
-On April 7 (2019), I will be doing an updated version of this talk at FOSS Northin Gothenburg - my time slot is 15 minutes longer, so I might actually get through most of the talk this time.</description>
+Got written up as an article on LWN.net to my delight, and so far the comments have generally been surprisingly positive pretty much everywhere.
+On April 7 (2019), I will be doing an updated version of this talk at FOSS North in Gothenburg - my time slot is 15 minutes longer, so I might actually get through most of the talk this time.</description>
     </item>
     
     <item>
@@ -38,9 +38,8 @@ On April 7 (2019), I will be doing an updated version of this talk at FOSS North
       <pubDate>Fri, 20 Jan 2017 09:03:23 +0100</pubDate>
       
       <guid>http://6510.nu/lca2017/</guid>
-      <description>edit: This got written up as an article on LWN.net, a huge thank you to Jonathan Corbet for that!
-I have also been thinking about this presentation a lot in the years following - the package management problem remains unsolved and it&#39;s still something I wrestle with.
-Lately I actually took the plunge and installed NixOS on two of my machines. It&#39;s weird and clunky in some ways, but at the same time it&#39;s a delight.</description>
+      <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } edit: This got written up as an article on LWN.net, a huge thank you to Jonathan Corbet for that!
+I have also been thinking about this presentation a lot in the years following - the package management problem remains unsolved and it&#39;s still something I wrestle with.</description>
     </item>
     
   </channel>
