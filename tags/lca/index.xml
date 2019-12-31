@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lca on 6510</title>
@@ -19,8 +19,8 @@
       
       <guid>http://6510.nu/1959/</guid>
       <description>Presentation I did at linux.conf.au 2019 about the history of Lisp, computers and programming in general.
-Got written up as an article on LWN.net to my delight, and so far the comments have generally been surprisingly positive pretty much everywhere.
-On April 7 (2019), I will be doing an updated version of this talk at FOSS North in Gothenburg - my time slot is 15 minutes longer, so I might actually get through most of the talk this time.</description>
+Got written up as an article on LWN.netto my delight, and so far the comments have generally been surprisingly positive pretty much everywhere.
+On April 7 (2019), I will be doing an updated version of this talk at FOSS Northin Gothenburg - my time slot is 15 minutes longer, so I might actually get through most of the talk this time.</description>
     </item>
     
   </channel>
