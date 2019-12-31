@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Sat, 06 Apr 2019 10:32:33 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 10:32:33 +0200</lastBuildDate>
     
 	<atom:link href="http://6510.nu/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>code</title>
       <link>http://6510.nu/tags/code/</link>
-      <pubDate>Sat, 06 Apr 2019 10:32:33 +0200</pubDate>
+      <pubDate>Fri, 19 Apr 2019 10:32:33 +0200</pubDate>
       
       <guid>http://6510.nu/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>http://6510.nu/tags/talk/</link>
+      <pubDate>Fri, 19 Apr 2019 10:32:33 +0200</pubDate>
+      
+      <guid>http://6510.nu/tags/talk/</guid>
       <description></description>
     </item>
     
@@ -27,15 +36,6 @@
       <pubDate>Sat, 06 Apr 2019 10:32:33 +0200</pubDate>
       
       <guid>http://6510.nu/tags/lca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>http://6510.nu/tags/talk/</link>
-      <pubDate>Sat, 06 Apr 2019 10:32:33 +0200</pubDate>
-      
-      <guid>http://6510.nu/tags/talk/</guid>
       <description></description>
     </item>
     

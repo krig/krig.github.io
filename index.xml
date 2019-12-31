@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Sat, 06 Apr 2019 10:32:33 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 10:32:33 +0200</lastBuildDate>
     
 	<atom:link href="http://6510.nu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Let&#39;s LISP like it&#39;s 1959 (Rev. II)</title>
+      <link>http://6510.nu/fossnorth/</link>
+      <pubDate>Fri, 19 Apr 2019 10:32:33 +0200</pubDate>
+      
+      <guid>http://6510.nu/fossnorth/</guid>
+      <description>FOSS North, 2019. Second revision of this talk.
+I tried to address some of the comments I received after presenting at linux.conf.au earlier the same year. Possibly not entirely successful.</description>
+    </item>
     
     <item>
       <title>Let&#39;s LISP like it&#39;s 1959</title>
