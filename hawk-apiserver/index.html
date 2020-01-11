@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal website of krig / Kristoffer Gronlund">
+    <meta name="author" content="Kristoffer Gronlund">
+    <title>Hawk API server</title>
+    <link rel="stylesheet" href="/css/krigs.css">
+    <link rel="shortcut icon" href="/favicon.ico">
+  </head>
+  <body>
+    <header>
+      <div id="omega">
+        <h1><a href="http://6510.nu/" title="krig">&#9675;</a></h1>
+      </div>
+    </header>
+    <div id="container">
+
+<div id="body-text">
+  <article class="post">
+    <h1>Hawk API server</h1>
+    <div class="postdate">Jan 11, 2020</div>
+    <p>My relationship with Go so far has been that it's a language that I don't love and
+don't want to love, but which I find myself being effortlessly productive in, in
+a way that I haven't experienced with a lot of other languages unless I have
+years of experience with them.</p>
+<p>The <a href="https://github.com/ClusterLabs/hawk-apiserver">Hawk API server</a> is an
+example of that. For the HA stack, we had been using <code>lighttpd</code> as the web
+server for <a href="https://github.com/ClusterLabs/hawk">Hawk</a>, the web frontend for the
+HA cluster stack.</p>
+<p>Instead of switching to Apache which would cause headaches since we're also
+hosting Apache has a cluster service, I started playing around with writing a
+minimal web server in Go. At first my plan was to use some already existing web
+server like Caddy, but I basically had a fully functional implementation working
+already after my initial hack session.</p>
+<p>Since then, the API server has gained a lot of interesting features. We use a
+persistent connection to Pacemaker together with goroutines for each API call to
+enable instant refresh of the web UI on cluster changes. I analyse the initial
+bytes of the HTTP connection to see if it's HTTP or HTTPS, and respond to HTTP
+with a redirect to HTTPS: That way, someone can type in the <code>IP:PORT</code> directly
+into the browser location bar without adding <code>https://</code> in front and it'll still
+work correctly.</p>
+
+  </article>
+</div>
+    </div>
+  </body>
+</html>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rust on 6510</title>
+    <link>http://6510.nu/tags/rust/</link>
+    <description>Recent content in rust on 6510</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
+    <lastBuildDate>Thu, 23 Jun 2016 15:44:22 +0100</lastBuildDate>
+    
+	<atom:link href="http://6510.nu/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Tale of Rust and the OBS</title>
+      <link>http://6510.nu/rust-obs/</link>
+      <pubDate>Thu, 23 Jun 2016 15:44:22 +0100</pubDate>
+      
+      <guid>http://6510.nu/rust-obs/</guid>
+      <description>In 2016 I was involved in packaging the rust compiler for openSUSE, and this presentation describes some of the hurdles I encountered on the way. It is also a very basic introduction to the rust language.</description>
+    </item>
+    
+  </channel>
+</rss>

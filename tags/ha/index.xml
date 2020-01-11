@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ha on 6510</title>
+    <link>http://6510.nu/tags/ha/</link>
+    <description>Recent content in ha on 6510</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
+    <lastBuildDate>Fri, 24 Jun 2016 15:34:12 +0100</lastBuildDate>
+    
+	<atom:link href="http://6510.nu/tags/ha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hawk 2.0 and Beyond</title>
+      <link>http://6510.nu/osc16-hawk/</link>
+      <pubDate>Fri, 24 Jun 2016 15:34:12 +0100</pubDate>
+      
+      <guid>http://6510.nu/osc16-hawk/</guid>
+      <description>This presentation was given at openSUSEconf 2016 in Nuremberg, Germany.
+In it, I presented Hawk 2.0, demonstrating how to set up a live cluster and showing off some of the new features in the second major release.
+Around this time I also created a website for Hawk which unfortunately (as of January 2020) hasn&#39;t been updated since: https://hawk-ui.github.io/</description>
+    </item>
+    
+    <item>
+      <title>Exploring History with Hawk</title>
+      <link>http://6510.nu/osc15-history/</link>
+      <pubDate>Wed, 20 May 2015 15:40:20 +0100</pubDate>
+      
+      <guid>http://6510.nu/osc15-history/</guid>
+      <description>Hawk is a web frontend for the ClusterLabs HA stack.
+This is a presentation of the History Explorer feature which I did at openSUSEconf 2015.</description>
+    </item>
+    
+  </channel>
+</rss>

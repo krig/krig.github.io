@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Fri, 10 Jan 2020 19:28:50 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 16:14:12 +0100</lastBuildDate>
     
 	<atom:link href="http://6510.nu/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>code</title>
       <link>http://6510.nu/tags/code/</link>
-      <pubDate>Fri, 10 Jan 2020 19:28:50 +0100</pubDate>
+      <pubDate>Sat, 11 Jan 2020 16:14:12 +0100</pubDate>
       
       <guid>http://6510.nu/tags/code/</guid>
       <description></description>
@@ -49,11 +49,38 @@
     </item>
     
     <item>
+      <title>presentation</title>
+      <link>http://6510.nu/tags/presentation/</link>
+      <pubDate>Thu, 07 Sep 2017 16:05:35 +0100</pubDate>
+      
+      <guid>http://6510.nu/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>music</title>
       <link>http://6510.nu/tags/music/</link>
       <pubDate>Mon, 02 Jan 2017 19:05:13 +0100</pubDate>
       
       <guid>http://6510.nu/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ha</title>
+      <link>http://6510.nu/tags/ha/</link>
+      <pubDate>Fri, 24 Jun 2016 15:34:12 +0100</pubDate>
+      
+      <guid>http://6510.nu/tags/ha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>http://6510.nu/tags/rust/</link>
+      <pubDate>Thu, 23 Jun 2016 15:44:22 +0100</pubDate>
+      
+      <guid>http://6510.nu/tags/rust/</guid>
       <description></description>
     </item>
     

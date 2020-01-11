@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Fri, 10 Jan 2020 19:28:50 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 16:14:12 +0100</lastBuildDate>
     
 	<atom:link href="http://6510.nu/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hawk API server</title>
+      <link>http://6510.nu/hawk-apiserver/</link>
+      <pubDate>Sat, 11 Jan 2020 16:14:12 +0100</pubDate>
+      
+      <guid>http://6510.nu/hawk-apiserver/</guid>
+      <description>My relationship with Go so far has been that it&#39;s a language that I don&#39;t love and don&#39;t want to love, but which I find myself being effortlessly productive in, in a way that I haven&#39;t experienced with a lot of other languages unless I have years of experience with them.
+The Hawk API server is an example of that. For the HA stack, we had been using lighttpd as the web server for Hawk, the web frontend for the HA cluster stack.</description>
+    </item>
     
     <item>
       <title>Koi</title>
@@ -62,6 +72,16 @@ On April 7 (2019), I will be doing an updated version of this talk at FOSS North
     </item>
     
     <item>
+      <title>Clusterlabs Summit 2017</title>
+      <link>http://6510.nu/clusterlabs-summit/</link>
+      <pubDate>Thu, 07 Sep 2017 16:05:35 +0100</pubDate>
+      
+      <guid>http://6510.nu/clusterlabs-summit/</guid>
+      <description>In 2017, I organized a conference for the first and only time. This was the Clusterlabs semi-regular developer conference for the Linux HA / Clusterlabs community. It was generally a success, attended by people from various companies and places, and surprisingly not a terrible amount of work to arrange. This despite the fact that the conference was held in Nuremberg, Germany while I live in Sweden and work remotely.
+There is a really nice write-up of the conference by Tanja from SUSE here.</description>
+    </item>
+    
+    <item>
       <title>Package Managers #lca2017</title>
       <link>http://6510.nu/lca2017/</link>
       <pubDate>Fri, 20 Jan 2017 09:03:23 +0100</pubDate>
@@ -69,6 +89,36 @@ On April 7 (2019), I will be doing an updated version of this talk at FOSS North
       <guid>http://6510.nu/lca2017/</guid>
       <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } edit: This got written up as an article on LWN.net, a huge thank you to Jonathan Corbet for that!
 I have also been thinking about this presentation a lot in the years following - the package management problem remains unsolved and it&#39;s still something I wrestle with.</description>
+    </item>
+    
+    <item>
+      <title>Hawk 2.0 and Beyond</title>
+      <link>http://6510.nu/osc16-hawk/</link>
+      <pubDate>Fri, 24 Jun 2016 15:34:12 +0100</pubDate>
+      
+      <guid>http://6510.nu/osc16-hawk/</guid>
+      <description>This presentation was given at openSUSEconf 2016 in Nuremberg, Germany.
+In it, I presented Hawk 2.0, demonstrating how to set up a live cluster and showing off some of the new features in the second major release.
+Around this time I also created a website for Hawk which unfortunately (as of January 2020) hasn&#39;t been updated since: https://hawk-ui.github.io/</description>
+    </item>
+    
+    <item>
+      <title>A Tale of Rust and the OBS</title>
+      <link>http://6510.nu/rust-obs/</link>
+      <pubDate>Thu, 23 Jun 2016 15:44:22 +0100</pubDate>
+      
+      <guid>http://6510.nu/rust-obs/</guid>
+      <description>In 2016 I was involved in packaging the rust compiler for openSUSE, and this presentation describes some of the hurdles I encountered on the way. It is also a very basic introduction to the rust language.</description>
+    </item>
+    
+    <item>
+      <title>Exploring History with Hawk</title>
+      <link>http://6510.nu/osc15-history/</link>
+      <pubDate>Wed, 20 May 2015 15:40:20 +0100</pubDate>
+      
+      <guid>http://6510.nu/osc15-history/</guid>
+      <description>Hawk is a web frontend for the ClusterLabs HA stack.
+This is a presentation of the History Explorer feature which I did at openSUSEconf 2015.</description>
     </item>
     
   </channel>
