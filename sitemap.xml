@@ -1,34 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://6510.nu/</loc>
-    <lastmod>2020-01-11T16:14:12+01:00</lastmod>
+    <lastmod>2020-01-23T13:44:59+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://6510.nu/categories/</loc>
-    <lastmod>2020-01-11T16:14:12+01:00</lastmod>
+    <lastmod>2020-01-23T13:44:59+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://6510.nu/tags/code/</loc>
-    <lastmod>2020-01-11T16:14:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://6510.nu/hawk-apiserver/</loc>
-    <lastmod>2020-01-11T16:14:12+01:00</lastmod>
+    <loc>http://6510.nu/intro-to-rook/</loc>
+    <lastmod>2020-01-23T13:44:59+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://6510.nu/tags/</loc>
-    <lastmod>2020-01-11T16:14:12+01:00</lastmod>
+    <lastmod>2020-01-23T13:44:59+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://6510.nu/tags/code/</loc>
+    <lastmod>2020-01-23T13:44:59+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://6510.nu/categories/whatever/</loc>
+    <lastmod>2020-01-23T13:44:59+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://6510.nu/hawk-apiserver/</loc>
     <lastmod>2020-01-11T16:14:12+01:00</lastmod>
   </url>
   
@@ -38,13 +48,14 @@
   </url>
   
   <url>
-    <loc>http://6510.nu/tags/games/</loc>
+    <loc>http://6510.nu/roam/</loc>
     <lastmod>2019-12-31T17:27:38+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://6510.nu/roam/</loc>
+    <loc>http://6510.nu/tags/games/</loc>
     <lastmod>2019-12-31T17:27:38+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -55,16 +66,18 @@
   <url>
     <loc>http://6510.nu/tags/talk/</loc>
     <lastmod>2019-04-19T10:32:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://6510.nu/tags/lca/</loc>
-    <lastmod>2019-04-06T10:32:33+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://6510.nu/1959/</loc>
     <lastmod>2019-04-06T10:32:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://6510.nu/tags/lca/</loc>
+    <lastmod>2019-04-06T10:32:33+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -80,6 +93,7 @@
   <url>
     <loc>http://6510.nu/tags/presentation/</loc>
     <lastmod>2017-09-07T16:05:35+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -95,16 +109,18 @@
   <url>
     <loc>http://6510.nu/tags/music/</loc>
     <lastmod>2017-01-02T19:05:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://6510.nu/tags/ha/</loc>
-    <lastmod>2016-06-24T15:34:12+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://6510.nu/osc16-hawk/</loc>
     <lastmod>2016-06-24T15:34:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://6510.nu/tags/ha/</loc>
+    <lastmod>2016-06-24T15:34:12+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -115,6 +131,7 @@
   <url>
     <loc>http://6510.nu/tags/rust/</loc>
     <lastmod>2016-06-23T15:44:22+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>whatever on 6510</title>
@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Sat, 11 Jan 2020 16:14:12 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 13:44:59 +0100</lastBuildDate>
     
 	<atom:link href="http://6510.nu/categories/whatever/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intro to Rook</title>
+      <link>http://6510.nu/intro-to-rook/</link>
+      <pubDate>Thu, 23 Jan 2020 13:44:59 +0100</pubDate>
+      
+      <guid>http://6510.nu/intro-to-rook/</guid>
+      <description>The other day I presented Rook and Ceph at OpenInfra Forum #8 in Stockholm.
+I was told that there&amp;rsquo;s going to be video published of the talk eventually, but here are the slides as PDF for anyone who might be interested.</description>
+    </item>
     
     <item>
       <title>Hawk API server</title>
@@ -18,7 +28,7 @@
       <pubDate>Sat, 11 Jan 2020 16:14:12 +0100</pubDate>
       
       <guid>http://6510.nu/hawk-apiserver/</guid>
-      <description>My relationship with Go so far has been that it&#39;s a language that I don&#39;t love and don&#39;t want to love, but which I find myself being effortlessly productive in, in a way that I haven&#39;t experienced with a lot of other languages unless I have years of experience with them.
+      <description>My relationship with Go so far has been that it&amp;rsquo;s a language that I don&amp;rsquo;t love and don&amp;rsquo;t want to love, but which I find myself being effortlessly productive in, in a way that I haven&amp;rsquo;t experienced with a lot of other languages unless I have years of experience with them.
 The Hawk API server is an example of that. For the HA stack, we had been using lighttpd as the web server for Hawk, the web frontend for the HA cluster stack.</description>
     </item>
     
@@ -37,7 +47,7 @@ The Hawk API server is an example of that. For the HA stack, we had been using l
       <pubDate>Tue, 31 Dec 2019 17:27:38 +0100</pubDate>
       
       <guid>http://6510.nu/roam/</guid>
-      <description>Here, at the very last day of 2019, I thought I should start a series of posts documenting some of the hobby projects I&#39;ve created through the years. Most of them can be found on github, at least the ones that are in source code form.
+      <description>Here, at the very last day of 2019, I thought I should start a series of posts documenting some of the hobby projects I&amp;rsquo;ve created through the years. Most of them can be found on github, at least the ones that are in source code form.
 R O A M was a Hackweek project at SUSE, in which I wanted to implement a basic Minecraft-style landscape renderer in C. Source code available at github.</description>
     </item>
     
@@ -48,7 +58,7 @@ R O A M was a Hackweek project at SUSE, in which I wanted to implement a basic M
       
       <guid>http://6510.nu/fossnorth/</guid>
       <description>FOSS North, 2019. Second revision of this talk.
-It&#39;s not exactly the same talk as at LCA, in part because I am terrible at sticking to a script but also because I rewrote at least half of the presentation, expanding on some parts and trying to actually get to the part where I implement a lisp interpreter.</description>
+It&amp;rsquo;s not exactly the same talk as at LCA, in part because I am terrible at sticking to a script but also because I rewrote at least half of the presentation, expanding on some parts and trying to actually get to the part where I implement a lisp interpreter.</description>
     </item>
     
     <item>
@@ -87,8 +97,9 @@ There is a really nice write-up of the conference by Tanja from SUSE here.</desc
       <pubDate>Fri, 20 Jan 2017 09:03:23 +0100</pubDate>
       
       <guid>http://6510.nu/lca2017/</guid>
-      <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } edit: This got written up as an article on LWN.net, a huge thank you to Jonathan Corbet for that!
-I have also been thinking about this presentation a lot in the years following - the package management problem remains unsolved and it&#39;s still something I wrestle with.</description>
+      <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+edit: This got written up as an article on LWN.net, a huge thank you to Jonathan Corbet for that!
+I have also been thinking about this presentation a lot in the years following - the package management problem remains unsolved and it&amp;rsquo;s still something I wrestle with.</description>
     </item>
     
     <item>
@@ -97,7 +108,7 @@ I have also been thinking about this presentation a lot in the years following -
       <pubDate>Mon, 02 Jan 2017 19:05:13 +0100</pubDate>
       
       <guid>http://6510.nu/neptune/</guid>
-      <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } </description>
+      <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</description>
     </item>
     
     <item>
@@ -108,7 +119,7 @@ I have also been thinking about this presentation a lot in the years following -
       <guid>http://6510.nu/osc16-hawk/</guid>
       <description>This presentation was given at openSUSEconf 2016 in Nuremberg, Germany.
 In it, I presented Hawk 2.0, demonstrating how to set up a live cluster and showing off some of the new features in the second major release.
-Around this time I also created a website for Hawk which unfortunately (as of January 2020) hasn&#39;t been updated since: https://hawk-ui.github.io/</description>
+Around this time I also created a website for Hawk which unfortunately (as of January 2020) hasn&amp;rsquo;t been updated since: https://hawk-ui.github.io/</description>
     </item>
     
     <item>
