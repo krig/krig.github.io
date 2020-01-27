@@ -14,12 +14,13 @@
     
     <item>
       <title>Intro to Rook</title>
-      <link>http://6510.nu/intro-to-rook/</link>
+      <link>http://6510.nu/rook-at-openinfra/</link>
       <pubDate>Thu, 23 Jan 2020 13:44:59 +0100</pubDate>
       
-      <guid>http://6510.nu/intro-to-rook/</guid>
+      <guid>http://6510.nu/rook-at-openinfra/</guid>
       <description>The other day I presented Rook and Ceph at OpenInfra Forum #8 in Stockholm.
-I was told that there&amp;rsquo;s going to be video published of the talk eventually, but here are the slides as PDF for anyone who might be interested.</description>
+I was told that there&amp;rsquo;s going to be video published of the talk eventually, but here are the slides as PDF for anyone who might be interested, and there&amp;rsquo;s a web version here.
+I used reveal.js to make the presentation, if you are interested you can get the sources here.</description>
     </item>
     
     <item>
