@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>talk on 6510</title>
@@ -19,7 +19,7 @@
       
       <guid>http://6510.nu/fossnorth/</guid>
       <description>FOSS North, 2019. Second revision of this talk.
-It&amp;rsquo;s not exactly the same talk as at LCA, in part because I am terrible at sticking to a script but also because I rewrote at least half of the presentation, expanding on some parts and trying to actually get to the part where I implement a lisp interpreter.</description>
+It&#39;s not exactly the same talk as at LCA, in part because I am terrible at sticking to a script but also because I rewrote at least half of the presentation, expanding on some parts and trying to actually get to the part where I implement a lisp interpreter.</description>
     </item>
     
     <item>
