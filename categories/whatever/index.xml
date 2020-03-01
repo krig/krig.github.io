@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
-    <lastBuildDate>Thu, 23 Jan 2020 13:44:59 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 18:14:20 +0100</lastBuildDate>
     
 	<atom:link href="http://6510.nu/categories/whatever/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Oferlund</title>
+      <link>http://6510.nu/oferlund-vemod/</link>
+      <pubDate>Sun, 01 Mar 2020 18:14:20 +0100</pubDate>
+      
+      <guid>http://6510.nu/oferlund-vemod/</guid>
+      <description>I recently bought a little synthesizer/groovebox called OP-Z by Teenage Engineering. It&#39;s tiny and limited, but a ton of fun and somehow the limitations work for me - I find myself actually creating music with it.
+During January, I participated in something called #jamuary on instagram. Basically I created and posted a little musical clip every day. Sometimes it was part of a song, sometimes just a little jam, but I did manage to post something every day.</description>
+    </item>
     
     <item>
       <title>Intro to Rook</title>

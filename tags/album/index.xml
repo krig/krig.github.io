@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>music on 6510</title>
-    <link>http://6510.nu/tags/music/</link>
-    <description>Recent content in music on 6510</description>
+    <title>album on 6510</title>
+    <link>http://6510.nu/tags/album/</link>
+    <description>Recent content in album on 6510</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Kristoffer Gr&amp;ouml;nlund</copyright>
     <lastBuildDate>Sun, 01 Mar 2020 18:14:20 +0100</lastBuildDate>
     
-	<atom:link href="http://6510.nu/tags/music/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://6510.nu/tags/album/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>http://6510.nu/oferlund-vemod/</guid>
       <description>I recently bought a little synthesizer/groovebox called OP-Z by Teenage Engineering. It&#39;s tiny and limited, but a ton of fun and somehow the limitations work for me - I find myself actually creating music with it.
 During January, I participated in something called #jamuary on instagram. Basically I created and posted a little musical clip every day. Sometimes it was part of a song, sometimes just a little jam, but I did manage to post something every day.</description>
-    </item>
-    
-    <item>
-      <title>Hiding in the Shadow of Neptune</title>
-      <link>http://6510.nu/neptune/</link>
-      <pubDate>Mon, 02 Jan 2017 19:05:13 +0100</pubDate>
-      
-      <guid>http://6510.nu/neptune/</guid>
-      <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } </description>
     </item>
     
   </channel>
